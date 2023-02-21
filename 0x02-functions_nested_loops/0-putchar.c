@@ -1,8 +1,8 @@
 #include "main.h"
+
 /**
  * main - print _putchar
- * is writtem by Yator
- * Return: 0
+ * Return: ALways 0
  */
 
 int main(void)
